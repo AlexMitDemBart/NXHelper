@@ -18,5 +18,9 @@ simple way to check if a reference set in a workpart exist
      bool refsetExist = refsetList.Count > 0 ? true : false;
      return refsetExist;
  }
-
 ```
+
+## Requirements
+
+To compile the project you need the NXOpen libraries which you can find in your SiemensNX installation folder.
+Just create a reference in the project solution.
