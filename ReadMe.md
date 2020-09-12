@@ -14,7 +14,7 @@ simple way to check if a reference set in a workpart exist
  public static bool RefsetExist(Part workpart, string name)
  {
      List<ReferenceSet> refsetList = workpart.
-     GetAllReferenceSets().Where(x => x.Name.Equals(name)).ToList();
+            GetAllReferenceSets().Where(x => x.Name.Equals(name)).ToList();
      bool refsetExist = refsetList.Count > 0 ? true : false;
      return refsetExist;
  }
