@@ -3,7 +3,9 @@
 ## Description
 
 The NXHelper library contains different classes that simplify working with NXOpen.
-
+What is NXOpen? NX Open is a collection of APIs that allows you to create custom 
+applications for NX through an open architecture using well-known programming languages 
+(C/C++, Visual Basic, C#, Java, and Python).
 
 ## Code Snippet
 
