@@ -1,7 +1,5 @@
 # NXHelper
 
-[![HitCount](http://hits.dwyl.com/AlexMitDemBart/NXHelper.svg)](http://hits.dwyl.com/AlexMitDemBart/NXHelper)
-
 ## Description
 
 The NXHelper library contains different classes that simplify working with NXOpen.
