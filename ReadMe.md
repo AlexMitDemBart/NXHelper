@@ -19,6 +19,16 @@ simple way to check if a reference set in a workpart exist
      return refsetExist;
  }
 ```
+## What is Siemens NX?
+
+<kbd>
+<img src="/Images/nx.png"/>
+</kbd>
+
+<br />
+
+Short and sweet its a CAD Software (computer-aided design) Common types of computer-aided design are metalworking, carpentry, and 3D printing.
+[Wikipedia Siemens NX](https://en.wikipedia.org/wiki/Siemens_NX)
 
 ## Requirements
 
