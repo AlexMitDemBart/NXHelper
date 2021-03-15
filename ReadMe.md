@@ -1,4 +1,4 @@
-# SiemensNX-Helper
+# NXOpen-Helper
 
 ## Description
 
