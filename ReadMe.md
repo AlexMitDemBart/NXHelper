@@ -1,4 +1,4 @@
-# NXHelper
+# SiemensNX-Helper
 
 ## Description
 
